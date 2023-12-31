@@ -1,0 +1,1 @@
+This repository contains the C++ solution to most polular questions of a popular programming platform of LEETCODE. The streak is maintained henceforth.
